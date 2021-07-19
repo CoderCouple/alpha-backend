@@ -3,6 +3,7 @@ target/
 .clover
 *.iml
 .idea/
+.gradle/
 *.project
 *.DS_STORE
 lib/hash*
